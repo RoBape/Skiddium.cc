@@ -156,16 +156,16 @@ local library = {
     pointers = {},
     settings = {
         guiname = "Skiddium",
-		title = "Skiddium.cc [Skidded]",
+		title = "Bump.Tap V0.3",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = "Skiddium Skidding 😢🤡",
+        footer = "Skiddium Works 😢🤡",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
         textstroke = true
     },
     theme = {
-        buttons = Color3.fromRGB(20, 200, 20), -- toggle, sliders colors
+        buttons = Color3.fromRGB(103, 71, 147), -- toggle, sliders colors
         text = Color3.fromRGB(235, 235, 235),
         textboxtext = Color3.fromRGB(145, 145, 145),
         main = Color3.fromRGB(30, 30, 30),
